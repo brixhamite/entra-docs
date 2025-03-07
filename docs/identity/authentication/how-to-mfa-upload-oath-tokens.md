@@ -33,7 +33,7 @@ Once tokens are acquired, a Global Administrator must upload them in a comma-sep
 
 ```csv
 upn,serial number,secret key,time interval,manufacturer,model
-Helga@contoso.com,1234567,2234567abcdef2234567abcdef,60,Contoso,HardwareKey
+Helga@contoso.com,1234567,234567ABCDEFGHIJKLMNOPQRSTUVWXYZ,60,Contoso,HardwareKey
 ```
 
 > [!NOTE]
